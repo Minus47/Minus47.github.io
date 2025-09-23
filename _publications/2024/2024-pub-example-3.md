@@ -13,9 +13,9 @@ abstract: >-
 cover:          /assets/images/covers/frame1.png
 authors:
   - Siqi Fu
-  - Song Peng
-  - Wang Hao
-  - Liu Zhaowei
+  - Peng Song
+  - Hao Wang
+  - Zhaowei Liu
 links:
   Code: https://github.com/Minus47/CDLSL
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
