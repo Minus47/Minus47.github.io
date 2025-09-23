@@ -1,6 +1,6 @@
 ---
 title:          "Common Discriminative Latent Space Learning for Cross-Domain Speech Emotion Recognition"
-date:           2024-05-12 00:01:00 +0800
+date:           2024-10-30 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Computational Social Systems (TCSS)"
 # pub_pre:        "Submitted to "
