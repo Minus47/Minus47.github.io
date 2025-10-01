@@ -6,7 +6,7 @@ positions:
 - logo: false
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
   # name: Position 1 with logo
-- name: A master's student at Yantai University
+- name: A M.Eng. student at Yantai University
 
 
 email: "minus478256@gmail.com"
@@ -23,16 +23,16 @@ github: Minus47
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    👋Hi, guys! I'm Siqi Fu (符思琦)😊, currently a third-year graduate student at Yantai University, majoring in Computer Technology under the guidance of 
+    👋Hi, guys! I'm Siqi Fu (符思琦)😊, currently a third-year master's student at Yantai University, majoring in Computer Technology under the supervision of 
     Prof. <a href="https://drpengsong.github.io/" target="_blank">Peng Song</a>. 
-    Previously, I received my bachelor's degree in Digital Media Technology from Tianjin Foreign Studies University.
+    Previously, I earned my bachelor's degree at Tianjin Foreign Studies University.
   </p>
   <p>
     My current research focuses on speech emotion recognition (SER)🗣️ and multimodal emotion recognition (MER). I'm also interested in 
     multi-view learning and EEG emotion recognition.
   </p>
   <p>
-    Outside of academics, I love movies🎞️, music🎧️, photography📷️, and participating in various sports🏃‍♀️~
+    During my leisure time, I am interested in movies🎞️, music🎧️, photography📷️, and various sports🏃‍♀️~
   </p>
 
 portrait_url: /assets/images/photos/fsq.jpg
@@ -41,14 +41,12 @@ portrait_caption: >-
 
 education:
 - name: Yantai University (YTU)
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    College of Computer and Control Engineering <br/>
-    Master's Student
+  logo: /assets/images/badges/ytu.png
+  position: M.Eng. in Computer Technology
   date: Sep. 2023 - present
 - name: Tianjin Foreign Studies University (TJFSU)
-  logo: /assets/images/badges/PKU_red.png
-  position: B.E. in Digital Media Technology
+  logo: /assets/images/badges/tjfsu.jpg
+  position: B.Eng. in Digital Media Technology
   date: Sep. 2019 - Jul. 2023
 
 # experience:
